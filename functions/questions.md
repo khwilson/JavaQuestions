@@ -69,6 +69,7 @@ So far, we've talked about the following functions:
 * `String.format`
 * `Math.pow`
 * `Math.sqrt`
+
 Each of these comes with Java. But how would you write your own function? Heck, *why* would
 you want to write your own function?
 
