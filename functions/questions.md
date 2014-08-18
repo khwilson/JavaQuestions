@@ -177,9 +177,9 @@ We're going to keep doing your algebra homework for you. Let's write a function 
 quadratic equations for you!
 
 Write a program that uses the quadratic formula to solve the following quadratic equations
-* *x*<sup>2</sup> + 10\**x* + 2 = 0
-* *x*<sup>2</sup> + 5\**x* + 1 = 0
-* 2*x*<sup>2</sup> - 2819\**x* + 372 = 0
+* *x*<sup>2</sup> + 10\* *x* + 2 = 0
+* *x*<sup>2</sup> + 5\* *x* + 1 = 0
+* 2 *x*<sup>2</sup> - 2819\* *x* + 372 = 0
 
 To get full marks, you must define a function which you call with the coefficients of the
 quadratic equations and you must print that function's return value.
