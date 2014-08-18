@@ -19,8 +19,7 @@ By the end of this assignment, you should be able to:
 Problems
 --------
 
-Problem 1 (The basics)
-~~~~~~~~~~~~~~~~~~~~~~
+### Problem 1 (The basics)
 
 A function is called by passing it *arguments*. For instance, when you type
 
