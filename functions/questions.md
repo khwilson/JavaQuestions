@@ -45,8 +45,7 @@ In Canvas, please answer the following questions:
 * What is the name of the function in this call: `String.format("%s", 27);`
 * What are the arguments in this function call: `Math.pow(2, 4);`
 
-Problem 2 (Composing functions)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Problem 2 (Composing functions)
 
 Functions can be *composed*, i.e., you may pass the output of one function as the argument of
 another. For instance, if we wanted to print the string "Let's count: 1, 2, 3", we could pass
@@ -63,8 +62,7 @@ In Canvas, please answer the following questions:
 * What does the following code print: `System.out.println(Math.pow(2, 4));`
 * How do I print the output of `Math.sqrt(27)`?
 
-Problem 3 (Writing your own functions)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Problem 3 (Writing your own functions)
 
 So far, we've talked about the following functions:
 * `System.out.println`
@@ -121,8 +119,7 @@ In Canvas, answer the following questions:
 * Everywhere you see the word `double` in the code snippet above, change it to `int`. What happens
   when you try to run `System.out.println(distance(1, 2, 3, 8.7))`
 
-Problem 4 (An interlude on types)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Problem 4 (An interlude on types)
 
 You've already seen `int` in class, e.g.,
 
@@ -173,8 +170,7 @@ be aware of:
 * `double` holds any decimal number, like `2829.17`, `293.1, -19.13892`, `Math.PI`, and
 * `String` holds any string, e.g., "Hello, world!", "8", "The number 8 is spelled eight".
 
-Problem 5 (A long challenge)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Problem 5 (A long challenge)
 
 We're going to keep doing your algebra homework for you. Let's write a function that solves
 quadratic equations for you!
